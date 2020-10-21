@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+p,
+li {
+  color: green;
+}
+
+li em {
+  color: rebeccapurple;
+  font-weight: bold;
+}
+
+.special {
+  color: orange;
+}
+
+h1 + p {
+  font-size: 50%code;
+}
+
+li {
+  list-style-type: kannada;
+}
